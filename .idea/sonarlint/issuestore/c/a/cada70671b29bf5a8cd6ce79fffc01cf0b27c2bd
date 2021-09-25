@@ -1,0 +1,16 @@
+
+e
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(­§óùÿÿÿÿ
+H
+java:S1113"-Do not override the Object.finalize() method.(­§óùÿÿÿÿ
+A
+java:S1174"&Make this finalize() method protected.(­§óùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(šÅÌÿùÿÿÿÿ
+V	java:S125*"<This block of commented-out lines of code should be removed.(ıš†åüÿÿÿÿ
+V
+java:S1126-"AReplace this if-then-else statement by a single return statement.(íÈ¿g
+n
+java:S29753"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ñÙ‹ºÿÿÿÿÿ
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8òÚ¹Ô¬/
+6
+java:S22258"Return a non null object.(¥¹ï8¯èºÔ¬/

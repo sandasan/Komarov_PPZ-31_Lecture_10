@@ -1,0 +1,18 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ž•ì¯þÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜²òÂøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©þêÜúÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Å®Åß8Ž±ºÕ¬/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(©þêÜúÿÿÿÿ8±Ñ»Õ¬/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8É’¼Õ¬/
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ÕÎ”ù8°Ä¼Õ¬/
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ý…¾Õ¬/
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(žë’]
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁŠö9
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óèðáøÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï²¹¾
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–Å¼¶ýÿÿÿÿ
+e
+java:S2259""CA "NullPointerException" could be thrown; "KT321" is nullable here.(¬áË‹ýÿÿÿÿ8„½¾Õ¬/

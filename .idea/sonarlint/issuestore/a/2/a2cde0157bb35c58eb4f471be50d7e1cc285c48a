@@ -1,0 +1,10 @@
+
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(‰Òüûÿÿÿÿ
+G
+java:S1264",Replace this "for" loop with a "while" loop.(Å‚ü«úÿÿÿÿ
+j
+java:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(ïİÕÍ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‰¡€üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(á²ÊÇıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(½¥ •
+N	java:S106"9Replace this use of System.out or System.err by a logger.(º—ï…

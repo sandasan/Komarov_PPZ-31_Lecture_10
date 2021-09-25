@@ -1,0 +1,41 @@
+
+h
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(Çµí‘
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ºùıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Á¼æ÷ÿÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(Æ®ê
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(³‘•î
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(Æ®ê
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(³‘•î
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(ÑÊ àøÿÿÿÿ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(ÿ‰ãşşÿÿÿÿ
+S	java:S106["9Replace this use of System.out or System.err by a logger.(ıÒÙ”ÿÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(ŞÇ˜„ÿÿÿÿÿ
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(åˆ™âøÿÿÿÿ
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(ş²¸÷
+N	java:S106c"9Replace this use of System.out or System.err by a logger.(îå÷ş
+G
+java:S1264e",Replace this "for" loop with a "while" loop.(Å‚ü«úÿÿÿÿ
+q
+java:S1215h"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(ïİÕÍ8õø†•°/
+N	java:S106z"9Replace this use of System.out or System.err by a logger.(‚ÊÓ°
+[	java:S106€"9Replace this use of System.out or System.err by a logger.(í¿Ûçıÿÿÿÿ8ì¹í”°/
+K
+java:S1128"5Remove this unused import 'home.alexander.Rectangle'.(‰ÃÅµ
+e	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁŠö9
+f	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï²¹¾
+e	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë’]
+e	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁŠö9
+k	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óèğáøÿÿÿÿ
+f	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï²¹¾
+ƒ
+java:S1488{"hImmediately return this expression instead of assigning it to the temporary variable "gotParameterName".(Æ› ¹şÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹©úüÿÿÿÿ
+X
+java:S2259:"CA "NullPointerException" could be thrown; "group" is nullable here.(ŸšÿD
+^
+java:S2259T"CA "NullPointerException" could be thrown; "KT321" is nullable here.(¬áË‹ıÿÿÿÿ

@@ -1,0 +1,24 @@
+
+7
+java:S1170"!Make this final field static too.( üÇÿ
+;
+java:S1659"%Declare "surname" on a separate line.(÷‚¡§
+7
+java:S1659"!Declare "sex" on a separate line.(÷‚¡§
+P
+java:S1133"5Do not forget to remove this deprecated code someday.(­§óùÿÿÿÿ
+C
+java:S1123"(Add the missing @deprecated Javadoc tag.(­§óùÿÿÿÿ
+H
+java:S1113"-Do not override the Object.finalize() method.(­§óùÿÿÿÿ
+A
+java:S1174"&Make this finalize() method protected.(­§óùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŒŸº
+^
+java:S1126G"AReplace this if-then-else statement by a single return statement.(ˆ¡¹¬8‚ÆÏ”°/
+n
+java:S2975M"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ë¸ğÿÿÿÿÿ
+V	java:S125R"<This block of commented-out lines of code should be removed.(½ğ’ôùÿÿÿÿ
+|
+java:S1488Q"_Immediately return this expression instead of assigning it to the temporary variable "student".(ŸÅä¬8ÂÉÌ”°/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹©úüÿÿÿÿ
